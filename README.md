@@ -11,3 +11,5 @@ Feel free to explore my repositories for more projects and code snippets!
 
 Connect with Me LinkedIn: https://www.linkedin.com/in/khushali-nandani-889327229/
 Let's connect and collaborate on exciting projects!
+
+[![Khushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khu1208)](https://github.com/anuraghazra/github-readme-stats)
